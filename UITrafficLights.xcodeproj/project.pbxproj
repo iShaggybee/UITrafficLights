@@ -11,6 +11,7 @@
 		6330C67C287FE47C00167834 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6330C67B287FE47C00167834 /* ContentView.swift */; };
 		6330C67E287FE48000167834 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6330C67D287FE48000167834 /* Assets.xcassets */; };
 		6330C681287FE48000167834 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6330C680287FE48000167834 /* Preview Assets.xcassets */; };
+		6330C688287FE69100167834 /* TrafficSignalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6330C687287FE69100167834 /* TrafficSignalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6330C67B287FE47C00167834 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6330C67D287FE48000167834 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6330C680287FE48000167834 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6330C687287FE69100167834 /* TrafficSignalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficSignalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				6330C679287FE47C00167834 /* UITrafficLightsApp.swift */,
+				6330C687287FE69100167834 /* TrafficSignalView.swift */,
 				6330C67B287FE47C00167834 /* ContentView.swift */,
 				6330C67D287FE48000167834 /* Assets.xcassets */,
 				6330C67F287FE48000167834 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6330C67C287FE47C00167834 /* ContentView.swift in Sources */,
+				6330C688287FE69100167834 /* TrafficSignalView.swift in Sources */,
 				6330C67A287FE47C00167834 /* UITrafficLightsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
